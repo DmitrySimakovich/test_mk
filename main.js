@@ -1,15 +1,17 @@
-const user2 = {
+// TEST DATA
+/*const user2 = {
     id: 30,
     name: "Dmitry Simakovich",
     role: "Front end",
     salary: 200
 };
+
 const user3 = {
     id: 40,
     name: "Valeriy Meladze",
     role: "Singer",
     salary: 300
-};
+};*/
 
 const user1 = {
     id: 20,
